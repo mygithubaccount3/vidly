@@ -8,6 +8,7 @@ django = "==2.1"
 django-tastypie = "*"
 gunicorn = "*"
 whitenoise = "*"
+matplotlib = "*"
 
 [dev-packages]
 autopep8 = "*"
