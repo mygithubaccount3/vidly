@@ -25,7 +25,9 @@ SECRET_KEY = '&jbh0wtsxir%&+%zl$3x0ev79c1!jhh#s=h#r&9no!@=3c$dh_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'mighty-journey-39715.herokuapp.com'
+]
 
 
 # Application definition
